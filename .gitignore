@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/QuilgoConsoleTestApp/obj/Debug/net6.0/QuilgoConsoleTestApp.pdb
+/QuilgoConsoleTestApp/obj/Debug/net6.0/QuilgoConsoleTestApp.dll
+/QuilgoConsoleTestApp/obj/Debug/net6.0/refint/QuilgoConsoleTestApp.dll
+/QuilgoConsoleTestApp/obj/Debug/net6.0/ref/QuilgoConsoleTestApp.dll
+/QuilgoConsoleTestApp/bin/Debug/net6.0/QuilgoConsoleTestApp.pdb
+/QuilgoConsoleTestApp/bin/Debug/net6.0/QuilgoConsoleTestApp.dll
+/.vs/QuilgoConsoleTestApp/v17/.suo
+*.vsidx
+/.vs/QuilgoConsoleTestApp/FileContentIndex/eb93d85f-1142-480a-9825-43641b60c8e4.vsidx
