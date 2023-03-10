@@ -21,6 +21,11 @@
             return result;
         }
 
+        /// <summary>
+        /// Gets the element of the integer array that has the highest number of occurrence 
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <returns></returns>
         static int NumberWithHighestOccurenceRate(int[] nums)
         {
             if (nums == null || nums.Length == 0)
