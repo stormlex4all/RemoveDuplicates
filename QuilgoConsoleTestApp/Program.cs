@@ -1,13 +1,13 @@
 ﻿namespace QuilgoConsoleTestApp
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(NumberWithHighestOccurenceRate(new int[]{1,1,1,2,2,3,4,4,4,4,5,5,5,5 }));
+            Console.WriteLine(Solution.NumberWithHighestOccurenceRate(new int[]{1,1,1,2,2,3,4,4,4,4,5,5,5,5 }));
         }
 
-        static int[] RemoveDuplicates(int[] nums)
+        public static int[] RemoveDuplicates(int[] nums)
         {
             HashSet<int> distinct = new HashSet<int>();
             
@@ -20,13 +20,18 @@
             distinct.CopyTo(result);
             return result;
         }
+    }
+
+    public class Solution
+    {
+
 
         /// <summary>
         /// Gets the element of the integer array that has the highest number of occurrence 
         /// </summary>
         /// <param name="nums"></param>
         /// <returns></returns>
-        static int NumberWithHighestOccurenceRate(int[] nums)
+        public static int NumberWithHighestOccurenceRate(int[] nums)
         {
             if (nums == null || nums.Length == 0)
             {
@@ -47,7 +52,7 @@
                 }
             }
 
-            foreach(KeyValuePair<int, int> pair in numCount)
+            foreach (KeyValuePair<int, int> pair in numCount)
             {
                 if (maxCount < pair.Value)
                 {

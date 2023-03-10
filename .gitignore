@@ -11,3 +11,9 @@
 /.vs/QuilgoConsoleTestApp/v17/.suo
 *.vsidx
 /.vs/QuilgoConsoleTestApp/FileContentIndex/eb93d85f-1142-480a-9825-43641b60c8e4.vsidx
+*.json
+*.dll
+*.exe
+*.pdb
+/UnitTests/obj
+/.vs/QuilgoConsoleTestApp/v17/TestStore/0

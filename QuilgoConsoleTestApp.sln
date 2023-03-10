@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuilgoConsoleTestApp", "QuilgoConsoleTestApp\QuilgoConsoleTestApp.csproj", "{CA56EBF8-C4C6-4D83-BF56-80D65B1A19DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{2D99F4A3-4948-48C9-95F7-819BF6AF6C03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CA56EBF8-C4C6-4D83-BF56-80D65B1A19DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA56EBF8-C4C6-4D83-BF56-80D65B1A19DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA56EBF8-C4C6-4D83-BF56-80D65B1A19DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D99F4A3-4948-48C9-95F7-819BF6AF6C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D99F4A3-4948-48C9-95F7-819BF6AF6C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D99F4A3-4948-48C9-95F7-819BF6AF6C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D99F4A3-4948-48C9-95F7-819BF6AF6C03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
