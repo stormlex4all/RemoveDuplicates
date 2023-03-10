@@ -17,3 +17,6 @@
 *.pdb
 /UnitTests/obj
 /.vs/QuilgoConsoleTestApp/v17/TestStore/0
+/.vs/QuilgoConsoleTestApp/FileContentIndex
+/TestProject/bin/Debug/net6.0
+/TestProject/obj
