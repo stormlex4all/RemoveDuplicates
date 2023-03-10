@@ -1,0 +1,15 @@
+C:\Users\iikefuna\Desktop\Quilgo\QuilgoConsoleTestApp\QuilgoConsoleTestApp\bin\Debug\net6.0\QuilgoConsoleTestApp.exe
+C:\Users\iikefuna\Desktop\Quilgo\QuilgoConsoleTestApp\QuilgoConsoleTestApp\bin\Debug\net6.0\QuilgoConsoleTestApp.deps.json
+C:\Users\iikefuna\Desktop\Quilgo\QuilgoConsoleTestApp\QuilgoConsoleTestApp\bin\Debug\net6.0\QuilgoConsoleTestApp.runtimeconfig.json
+C:\Users\iikefuna\Desktop\Quilgo\QuilgoConsoleTestApp\QuilgoConsoleTestApp\bin\Debug\net6.0\QuilgoConsoleTestApp.dll
+C:\Users\iikefuna\Desktop\Quilgo\QuilgoConsoleTestApp\QuilgoConsoleTestApp\bin\Debug\net6.0\QuilgoConsoleTestApp.pdb
+C:\Users\iikefuna\Desktop\Quilgo\QuilgoConsoleTestApp\QuilgoConsoleTestApp\obj\Debug\net6.0\QuilgoConsoleTestApp.csproj.AssemblyReference.cache
+C:\Users\iikefuna\Desktop\Quilgo\QuilgoConsoleTestApp\QuilgoConsoleTestApp\obj\Debug\net6.0\QuilgoConsoleTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iikefuna\Desktop\Quilgo\QuilgoConsoleTestApp\QuilgoConsoleTestApp\obj\Debug\net6.0\QuilgoConsoleTestApp.AssemblyInfoInputs.cache
+C:\Users\iikefuna\Desktop\Quilgo\QuilgoConsoleTestApp\QuilgoConsoleTestApp\obj\Debug\net6.0\QuilgoConsoleTestApp.AssemblyInfo.cs
+C:\Users\iikefuna\Desktop\Quilgo\QuilgoConsoleTestApp\QuilgoConsoleTestApp\obj\Debug\net6.0\QuilgoConsoleTestApp.csproj.CoreCompileInputs.cache
+C:\Users\iikefuna\Desktop\Quilgo\QuilgoConsoleTestApp\QuilgoConsoleTestApp\obj\Debug\net6.0\QuilgoConsoleTestApp.dll
+C:\Users\iikefuna\Desktop\Quilgo\QuilgoConsoleTestApp\QuilgoConsoleTestApp\obj\Debug\net6.0\refint\QuilgoConsoleTestApp.dll
+C:\Users\iikefuna\Desktop\Quilgo\QuilgoConsoleTestApp\QuilgoConsoleTestApp\obj\Debug\net6.0\QuilgoConsoleTestApp.pdb
+C:\Users\iikefuna\Desktop\Quilgo\QuilgoConsoleTestApp\QuilgoConsoleTestApp\obj\Debug\net6.0\QuilgoConsoleTestApp.genruntimeconfig.cache
+C:\Users\iikefuna\Desktop\Quilgo\QuilgoConsoleTestApp\QuilgoConsoleTestApp\obj\Debug\net6.0\ref\QuilgoConsoleTestApp.dll
